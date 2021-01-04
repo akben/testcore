@@ -15,6 +15,7 @@ namespace testcore
     {
         public Startup(IConfiguration configuration)
         {
+
             Configuration = configuration;
         }
 
